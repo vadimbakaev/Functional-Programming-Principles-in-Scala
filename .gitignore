@@ -1,0 +1,12 @@
+target
+*.class
+*.log
+*.iml
+*.ipr
+*.iws
+.idea
+out
+.history
+.cache
+.lib/
+.DS_Store
